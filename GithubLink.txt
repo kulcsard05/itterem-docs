@@ -1,5 +1,5 @@
 https://github.com/kulcsard05/itterem-docs
 https://github.com/kulcsard05/itterem-back-end-
 https://github.com/kulcsard05/itterem-adatbazis
-https://github.com/kulcsard05/itterem-docs
+https://github.com/kulcsard05/itterem-front-end
 https://trello.com/b/CtplOl1i/itterem
